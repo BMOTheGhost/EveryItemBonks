@@ -41,7 +41,7 @@ namespace EveryItemBonks
             }
         }
 
-        // Required interface methods (can be left empty)
+        //needed interface methods
         public void OnConnected() {}
         public void OnConnectedToMaster() {}
         public void OnDisconnected(DisconnectCause cause)
@@ -81,8 +81,8 @@ namespace EveryItemBonks
                     {
                         bonkable = __instance.gameObject.AddComponent<Bonkable>();
 
-                        // Get synced bonking power from room property
-                        float power = 400f; // fallback if null
+                        //get synced bonk power from Photon room property
+                        float power = 400f; //fallback if null
                         if (PhotonNetwork.InRoom &&
                             PhotonNetwork.CurrentRoom.CustomProperties.TryGetValue("BonkingPower", out object value) &&
                             value is float syncedValue)
