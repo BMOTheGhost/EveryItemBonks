@@ -1,9 +1,0 @@
-C:\Users\soake\RiderProjects\EveryItemBonks\EveryItemBonks\EveryItemBonks\artifacts\bin\EveryItemBonks\debug\com.github.MusicallyUntalented.EveryItemBonks.deps.json
-C:\Users\soake\RiderProjects\EveryItemBonks\EveryItemBonks\EveryItemBonks\artifacts\bin\EveryItemBonks\debug\com.github.MusicallyUntalented.EveryItemBonks.dll
-C:\Users\soake\RiderProjects\EveryItemBonks\EveryItemBonks\EveryItemBonks\artifacts\obj\EveryItemBonks\debug\EveryItemBonks.csproj.AssemblyReference.cache
-C:\Users\soake\RiderProjects\EveryItemBonks\EveryItemBonks\EveryItemBonks\artifacts\obj\EveryItemBonks\debug\EveryItemBonks.IgnoresAccessChecksTo.cs
-C:\Users\soake\RiderProjects\EveryItemBonks\EveryItemBonks\EveryItemBonks\artifacts\obj\EveryItemBonks\debug\EveryItemBonks.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\soake\RiderProjects\EveryItemBonks\EveryItemBonks\EveryItemBonks\artifacts\obj\EveryItemBonks\debug\EveryItemBonks.AssemblyInfoInputs.cache
-C:\Users\soake\RiderProjects\EveryItemBonks\EveryItemBonks\EveryItemBonks\artifacts\obj\EveryItemBonks\debug\EveryItemBonks.AssemblyInfo.cs
-C:\Users\soake\RiderProjects\EveryItemBonks\EveryItemBonks\EveryItemBonks\artifacts\obj\EveryItemBonks\debug\EveryItemBonks.csproj.CoreCompileInputs.cache
-C:\Users\soake\RiderProjects\EveryItemBonks\EveryItemBonks\EveryItemBonks\artifacts\obj\EveryItemBonks\debug\com.github.MusicallyUntalented.EveryItemBonks.dll
